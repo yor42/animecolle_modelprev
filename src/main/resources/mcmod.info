@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "animearsenal",
+    "name": "Animecolle Arsenal",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "yor42"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
